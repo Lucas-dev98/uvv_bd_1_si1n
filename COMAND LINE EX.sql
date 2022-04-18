@@ -1,3 +1,7 @@
+CREATE DATABASE PSET1_ELMASLI ;
+
+USE PSET1_ELMASLI;
+
 
 CREATE TABLE funcionario (
                 cpf CHAR(11) NOT NULL,
@@ -79,17 +83,23 @@ CREATE TABLE dependente (
 ALTER TABLE dependente MODIFY COLUMN cpf CHAR(11) COMMENT 'Primary Key em funcionario, no atributo cpf.';
 
 
+
+
 ALTER TABLE funcionario ADD CONSTRAINT funcionario_funcionario_fk
 FOREIGN KEY (Parent_cpf)
 REFERENCES funcionario (cpf)
-ON DELETE NO ACTION
-ON UPDATE NO ACTION;
+ON DELETE  NO ACTION
+ON UPDATE NO ACTION
+;
+
+
 
 ALTER TABLE dependente ADD CONSTRAINT funcionario_dependente_fk
 FOREIGN KEY (cpf)
 REFERENCES funcionario (cpf)
 ON DELETE NO ACTION
-ON UPDATE NO ACTION;
+ON UPDATE NO ACTION
+;
 
 ALTER TABLE departamento ADD CONSTRAINT funcionario_departamento_fk
 FOREIGN KEY (cpf_gerente)
@@ -120,3 +130,6 @@ FOREIGN KEY (numero_projeto)
 REFERENCES projeto (numero_projeto)
 ON DELETE NO ACTION
 ON UPDATE NO ACTION;
+
+
+
