@@ -1,5 +1,13 @@
 /* _________________________________________________________________________________________________________________*/
+/* Criando a Base de dados  "PSET1_ELMASLI"*/
 
+CREATE DATABASE PSET1_ELMASLI;
+
+/* _________________________________________________________________________________________________________________*/
+/* Selecionando o Banco de Dados Criado*/
+
+ USE PSET1_ELMASLI;
+ 
 /* Criando a Tabela "funcionario":
 	definindo as restriçoes de NOT NULL, definindo tipo dos campos,
     e adicionando o campo "cpf", como uma chave primaria .
@@ -281,6 +289,9 @@ ON UPDATE NO ACTION;
 		"Rua do Horto,35,São Paulo,SP","M",55.000,
 		"", 1
     );
+    
+  
+    
 
 
     
