@@ -73,11 +73,12 @@
 <li>Postgresql</li>
 </ul>
   
-     <h2 align="lefth"> 6- Pessoas Contribuidoras</h2>
+ <h2 align="lefth"> 6- Pessoas Contribuidoras</h2>
 
   <p>
   Durante a realização, tive bastante dificildades e obstaculos, porem como nada na vida fazemos sozinhos contem pontualmente com ajudas externas em relação a perguntas sobre ao norteamento do trabalho, que pelo quantidade de tarefas muita das vezes nos perdemos, então contem com a ajuda de alguns colegas da sala nesse sentido.
-  Mas quero agradecer em especial o João Paulo - JP, que se mostrou não só um colega de caminhada, mas como um amigo, a ouvir minhas lamentações e me ajudar no rumo desse projeto, tenho uma imensa gratidão ao mesmo. "Chegaremos ao final, mas não chegaremos sozinhos" Paulo, João. </p>
+  Mas quero agradecer em especial o João Paulo - JP, que se mostrou não só um colega de caminhada, mas como um amigo, a ouvir minhas lamentações e me ajudar no rumo desse projeto, tenho uma imensa gratidão ao mesmo. "Chegaremos ao final, mas não chegaremos sozinhos" Paulo, João. 
+  </p>
  
   <h2 align="lefth"> 7- Pessoas Desenvolvedora</h2>
 
