@@ -1,5 +1,8 @@
+
+<img src="https://github.com/Lucas-dev98/uvv_bd_1_si1n/blob/secundaria/logo_sql.jpg" alt="drawing" width="200" />
+
 <h1 align="lefth"> <ul>
-<li>Nome: Lucas Oliveira Bastos</li>
+<li>Nome: Lucas Oliveira Bastos</li>         
 <li>Professor: Abrantes</li>
 <li>Turma: SI1N</li>
 <li>Disciplina: Analise e Desenvolvimento de Banco de Dados I</li>
@@ -89,7 +92,6 @@
   <h2 align="lefth"> 8- Considerações Finais</h2>
 
   <p> "O que vale a pena não é a chegada mas sim o caminho"- Autor Por Mim desconhecido, durante todo esse processo sinto que houve um crescimento muito grande apesar de toda a dificuldade, chego ao final com a sensação de dever cumprido, e aliviado que deu certo.</p>
-  
   
 
 
